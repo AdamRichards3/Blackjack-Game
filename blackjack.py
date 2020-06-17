@@ -6,8 +6,6 @@ dealer_cards = []
 # Player cards 
 player_cards = []
 
-# Deal cards 
-# Display the cards 
 # Dealer Cards
 while len(dealer_cards) !=2:
     dealer_cards.append(random.randint(7,11))
